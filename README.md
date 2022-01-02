@@ -1,3 +1,9 @@
+# Redux Store
+
+## Description
+
+Designed for engineers working on an e-commerce platform that want to use Redux to manage global state instead of the Context API so that their website's state management is taken out of the React ecosystem
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
